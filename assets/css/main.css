@@ -3011,12 +3011,12 @@ mark, .mark {
         position: absolute;
         width: 55%;
         padding-right: 70px;
+
     }
 }
 
 .post-03__media img {
     width: 100%;
-    height: 100%;
 }
 
 .post-03__body {
