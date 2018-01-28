@@ -4298,29 +4298,29 @@ mark, .mark {
 
 .page-title {
     padding-top: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     background-color: #f7f7f7;
     text-align: center;
 }
 
 @media (min-width: 0) {
     .page-title {
-        padding-top: calc(8.68056pxvw + 50px);
-        padding-bottom: calc(8.68056pxvw + 50px);
+        padding-top: calc(8.68056pxvw + 30px);
+        padding-bottom: calc(8.68056pxvw + 30px);
     }
 }
 
 @media (min-width: 576) {
     .page-title {
-        padding-top: calc(8.01282vw + 53.84615px);
-        padding-bottom: calc(8.01282vw + 53.84615px);
+        padding-top: calc(8.01282vw + 33.84615px);
+        padding-bottom: calc(8.01282vw + 33.84615px);
     }
 }
 
 @media (min-width: 1200px) {
     .page-title {
-        padding-top: 150px;
-        padding-bottom: 150px;
+        padding-top: 30px;
+        padding-bottom: 30px;
     }
 }
 
